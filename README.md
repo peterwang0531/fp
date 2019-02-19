@@ -9,11 +9,10 @@ learned in this course.  Some research might be required.
 
 For easiest viewing of these instructions, view online on Github.com or use a Markdown previewer.
 
+You do NOT need to download this repository.
 
 ### Getting Started
 
-1. Download a ZIP file of this repository, unzip it into a folder, and then convert that folder
-into your own git repository.  (Alternatively, you can clone this repository and then use `git remote set-url...` to point to your remote repository instead.)
 2. Create a remote repository (GitHub or BitBucket) called `mpscs52553-fp`.
 2. Follow the instructions below.
 3. Commit often.  Push often.
